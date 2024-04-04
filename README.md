@@ -39,10 +39,39 @@ Command Line Input--->
 Pass by Reference---->
 
 gliffy.com/
-Inheritance----> passed down Make more sub classes that extends the super class
+Inheritance----> (to not have to repeat all methods/fields) (SECURITY) passed down Make more sub classes that extends the super class, programming to the specific, 
 super class does not have access to sub class but sub class has access to super class
 program to the specific 
 
 least priveledge---->
 polymorpsh--->1 method many forms  
 Abstract Class---> interfaces
+extended is a keyword to let us know that we are using inheretance
+static- class controls it
+
+keyword extend class before is sub the class after is super class
+extends from blue print
+
+super---->base plus commissionemployee
+override means overrides method in super class
+earnings method from super class
+
+make yourself a baseplus commission employee on homework.
+3 set of code
+
+last one only turn PayrollSystemTest
+
+Change  a value of a given index of an array after it is created
+
+Inheretence allowing subclass object to only do its job.
+Polymorphsm 1 method many forms(programming to the general)
+
+Abstract method(super class)--->method without a body but it dictates the interface(can not create any object from it)
+forces class to become abstract no implementation can not build methods
+
+Concrete classes are not abstract which means you can build an object from it
+extends---polymorphsm must have inherentence subclasses
+ToString()
+private attribute
+subclass must have earnings method
+extends
