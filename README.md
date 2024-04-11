@@ -71,7 +71,42 @@ forces class to become abstract no implementation can not build methods
 
 Concrete classes are not abstract which means you can build an object from it
 extends---polymorphsm must have inherentence subclasses
+
 ToString()
-private attribute
+private attribute can only be acessed in class
+protected a subclass can access from a superclass use a pound
 subclass must have earnings method
 extends
+
+keeps the code;
+Execption handling owner data
+Concrete Abstract Polymorphism Extend Ingeretence
+
+integrity trustworthy
+inheretence writing to the specific
+////////////////////////////////////
+GUI
+Nimbus look and field
+event is clicking computer and it does something
+userinteraction 
+
+Operating system : usability
+command prompt GUI
+
+load, exchange in processor, how many applications you have going on.
+Activity stack read out or dump
+Operating system of saying it ended
+
+Swing
+Title bar, menu, 
+interface
+Nimbus Field
+
+API Application Programming Interface
+Class Hieararchy
+
+Polygonf Gradients Texture
+Pixels dots on screen
+Printer only printed from the upper left corner because it is from the root the tree
+
+Program to use mouse from 0 on the top
