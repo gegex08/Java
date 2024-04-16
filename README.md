@@ -110,3 +110,158 @@ Pixels dots on screen
 Printer only printed from the upper left corner because it is from the root the tree
 
 Program to use mouse from 0 on the top
+
+Lecture 01-30-2024
+A compiler runs faster Ex JAVA
+Interpreted runs slower Ex Python
+Moore’s law computer is faster, combability is greater, cheaper
+Data Hierarchy 1s and 0’s
+Field names characters and words
+Database
+Operating systems user interface set of code is moved from hard drive to RAM
+Task Manager CTRL+Alt+Del %processed Percentage ect.
+Lynux Mac OS Windos Dos IOS Android(Chromebook)
+
+Different Programming Languages
+Fortran Formula translator
+Cobol Common Business Oriented Language
+Pascal structured programming
+Ada based on Pascal
+Objective C
+Visual C#
+PHP interface language website
+Never get interface in database
+Perl
+Python
+JA
+Ruby on Rails Graphic unique mix
+Java
+
+
+
+
+Chapter 1.8
+Java founded 1991
+Libraries Classes faces packages
+Scanner packages –> methods 
+Abstraction level-hiding details
+API Application Programming Interfaces
+
+Chapter 1.9
+Edit Phases -Text File .java file
+Compile- turns   .java file ->.class file
+		Javac file1.java
+Loads
+Verify - will not corrupt host computer
+Execute- run file Java machine is invoked
+			Java file1
+Go to Command Prompt
+Change directory – cd
+Compile command javac filename.java
+Executes java filename
+
+-Compile Error crashes
+-Syntax
+-Logic
+-Runtime crashes
+
+
+
+Polymorphisms
+Inheritance super class subclass
+Exception handling
+Concrete class
+Abstract class or method
+Big Oh time complexity (efficiency) how long does it take to run application number of processes number of loops how long it takes to run algorithm amount of work vs amount of data
+Recursion function calling itself method that feeds itself another form of iteration best for sorting apps
+Sort Data to make it easier to find things
+All go together 
+Introduction to Data Structure
+Step linear algorithm Log 2 Base function cutting number in half
+-64
+-32
+-16
+-8
+-4
+-2
+Log264=6
+Log2100=6.7
+-100
+-50
+-25
+-13
+-6
+-3
+-1
+Hash table log base of 1----Takes in a piece of data and takes it to the given address
+
+
+Homework 10
+Part1
+________________________________________________________________________________
+
+Check if input string is palindrome
+Take in a string 
+Save
+Reverse
+Store it in another string
+And output
+If first character from array == last character from the array
+Reversing decrementing using 4loop
+Output Original String, reverse string, 
+ 
+
+Part 2
+Use Try and catch block from previous code
+Encryption
+plainText->Key=>CipherText
+cipherText->Key=> plaintext
+take an array input an array of characters
+ascii values American standard code for information interchange 256 in Unicode 128 in ascii
+toString() to char=’’
+change int add key value and change back to char
+Capital letters to lower case are 32 numbers of difference
+Simple cipher 
+Registry (try not to use it)
+Rot13 
+Logic if indx is greater than 25 
+Mod 26
+Shift to wrap around
+When you get to 90
+If you get an array of characters
+A	B	C	.	.	.	.	.	Y	Z
+0		1	2								24	25
+A			z	A	.	.	.	Y	Z
+0				25		26						50
+Mod key you will never in next block= wrap around
+ 
+Part 3 _____________________________________________________________________________________
+Use the 3 files
+Open File
+Load File
+Read A line at a time
+Split Method takes in string and give you a number of words divide number 3
+If it gives you a number of words
+Split by period exclamation and question marks
+Read it in one line
+Input number of words number of syllables
+Create my own my file to test that it works
+
+
+ 
+Tokenizing
+Reference type must point to same location and memory
+S1 Hello
+
+S2 GoodBye
+
+Gives you difference in the ASCII value 
+Gello
+Goodbye
+0
+Gollo
+Goobye
+11
+.equals ----boolean
+.CompareTO-------- gives you difference
+
