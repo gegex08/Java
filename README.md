@@ -294,3 +294,9 @@ S1.compareTo(S2);---32
 S2.compareTo(S1);----32
 The first time there is a difference it will give you an output.
 
+File you are getting from harddrive, printwriter
+open using file reader
+buffer to manipulate
+filewriter
+
+Applications look in to local directory firs
