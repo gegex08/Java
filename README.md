@@ -265,3 +265,32 @@ Goobye
 .equals ----boolean
 .CompareTO-------- gives you difference
 
+  _ _____________________________________________________________________________________
+Array string is immutable by length
+Array of characters cannot be changed
+Objects to use true or false
+Compare to primitive types Booleans, byte,
+Reference to check if its in same memory location
+
+
+
+
+
+
+
+SI= “Hi there”;
+S2= ”hi there”;
+S1.compareTo(S2);----32
+S2.compareTo(S1);---32
+
+SI= “hi there”;
+S2= ”hi there”;
+S1.compareTo(S2);---0
+S2.compareTo(S1);---0
+
+SI= “hi there”;
+S2= ”Hi There”;
+S1.compareTo(S2);---32
+S2.compareTo(S1);----32
+The first time there is a difference it will give you an output.
+
