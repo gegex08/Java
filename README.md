@@ -299,4 +299,33 @@ open using file reader
 buffer to manipulate
 filewriter
 
-Applications look in to local directory firs
+Applications look in to local directory first
+
+
+Coding Questions multiple choice questions bug Coding q Gradebook and tokenizing variation of these two problems a 2 dim array of grades not 2 classes but multiple methods
+
+Recursion calls itself
+1 termination condiition
+2 call clone
+3 Move towards Condition
+
+while loop
+identify
+increment
+Stack is an array but with rules first in is last one out last one in is the first one out
+
+Big OH---------RElationship amount of work for the amount of data (efficiency )
+
+Actions
+Time measure of work vs amount of Data
+
+Big Oh N Square(worst case)
+Insertion:Example 1698 compare 1628 swaps
+Bubble:5328 campares vs 1516 swaps O(N^2)
+quick: 523 compares vs 117 swaps nlogn
+
+That is why we use:
+relational database instead of spread sheets
+
+ologN linear search
+ON 
