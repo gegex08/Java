@@ -339,3 +339,5 @@ Main()	isPal(“ZEROREZ”)
 
 Method Boolean inPal(String s)
 Terminating Conditions if(s.lenght =0||s.lenght()==1)true, if(s.lenght =0||s.lenght()-11)true
+![image](https://github.com/gegex08/Java/assets/16494040/d9eae37d-7e92-45bb-894c-696292de5068)
+
