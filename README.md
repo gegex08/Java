@@ -329,3 +329,11 @@ relational database instead of spread sheets
 
 ologN linear search
 ON 
+	
+	
+	
+	
+Main()	isPal(“ZEROREZ”)
+
+Method Boolean inPal(String s)
+Terminating Conditions if(s.lenght =0||s.lenght()==1)true, if(s.lenght =0||s.lenght()-11)true
